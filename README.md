@@ -1,2 +1,2 @@
 # find-rock
-Buscador de artistas similares. 
+Buscador de artistas similares realizado con ReactJS.
